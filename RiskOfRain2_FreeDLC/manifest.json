@@ -1,0 +1,10 @@
+{
+    "name": "RiskOfRain2_FreeDLC",
+	"author": "Snoresville",
+    "version_number": "0.0.1",
+    "description": "Unlocks all expansion DLCs",
+    "website_url": "https://github.com/Snoresville/RiskOfRain2-FreeDLC",
+    "dependencies": [
+        "bbepis-BepInExPack-5.4.1905"
+    ]
+}
